@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "NHS TMIS - Telemedicine Information System",
   "scripts": {
-    "build": "cd src/frontend && npm install && npm run build",
-    "start": "cd src/backend && npm install && npm start",
+    "build": "cd src/frontend && npm install && NODE_ENV=production npm run build && cd ../backend && npm install",
+    "start": "cd src/backend && NODE_ENV=production npm start",
     "dev": "cd src/backend && npm run dev",
     "install-all": "npm install && cd src/backend && npm install && cd ../frontend && npm install"
   },
