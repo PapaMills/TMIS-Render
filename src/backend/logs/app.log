@@ -1,0 +1,62 @@
+[2025-09-22T19:30:15.361Z] ERROR: Login failed: Invalid password for kazestitches09@gmail.com
+[2025-09-22T19:30:15.779Z] INFO: Challenge issued to kazestitches09@gmail.com from unknown, unknown (IP: ::1)
+[2025-09-22T19:59:58.865Z] INFO: Register endpoint received publicKey: testpublickey123
+[2025-09-22T19:59:59.042Z] INFO: User registered: test@example.com
+[2025-09-22T20:00:00.396Z] INFO: Password login successful for test@example.com from unknown, unknown (IP: ::1) with risk score 20
+[2025-09-22T20:00:00.568Z] ERROR: Login failed: Invalid password for test@example.com
+[2025-09-22T20:03:30.457Z] INFO: Register endpoint received publicKey: MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEPBqP/6VLjyT+bXxl5m3HPBj251cQPpkT88xXbB9fSgLqu1gh3+Yifq5YFUdauCpuR6WZv2yxD0VR7/mccbovDQ==
+[2025-09-22T20:03:30.553Z] INFO: User registered: kazestitches09@gmail.com
+[2025-09-22T20:03:45.293Z] INFO: Password login successful for kazestitches09@gmail.com from unknown, unknown (IP: ::1) with risk score 14
+[2025-09-22T20:04:01.696Z] INFO: Password login successful for kazestitches09@gmail.com from unknown, unknown (IP: ::1) with risk score 14
+[2025-09-22T20:08:44.206Z] INFO: Register endpoint received publicKey: testpublickey123
+[2025-09-22T20:08:44.399Z] INFO: User registered: test@example.com
+[2025-09-22T20:08:45.735Z] INFO: Password login successful for test@example.com from unknown, unknown (IP: ::1) with risk score 20
+[2025-09-22T20:08:45.974Z] ERROR: Login failed: Invalid password for test@example.com
+[2025-09-22T20:14:48.182Z] INFO: Register endpoint received publicKey: MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE6JXtzfLw/jPKPChIkUgGArPtaR4ZrfsBqxpNoHJduyPnffJR+JgeEFGab0w+FCapq6RWsP9yL9PPRK/9uIn5WA==
+[2025-09-22T20:14:48.397Z] INFO: User registered: kazestitches09@gmail.com
+[2025-09-22T20:15:06.148Z] INFO: Password login successful for kazestitches09@gmail.com from unknown, unknown (IP: ::1) with risk score 14
+[2025-09-22T20:29:31.570Z] INFO: Register endpoint received publicKey: MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE3LsEkm/gkE+OPed6JGq6pcFmXfolYAjT848Qu1ptv/Rf0XQ8EtDVAUHDZCZobVsh5PqBnyY80rnST+d305jqvw==
+[2025-09-22T20:29:31.664Z] INFO: User registered: kazestitches09@gmail.com
+[2025-09-22T20:29:45.984Z] INFO: Password login successful for kazestitches09@gmail.com from unknown, unknown (IP: ::1) with risk score 14
+[2025-09-22T20:30:04.077Z] INFO: Password login successful for kazestitches09@gmail.com from unknown, unknown (IP: ::1) with risk score 14
+[2025-09-22T20:36:20.137Z] INFO: Register endpoint received publicKey: testpublickey123
+[2025-09-22T20:36:20.472Z] INFO: User registered: test@example.com
+[2025-09-22T20:36:21.980Z] INFO: Password login successful for test@example.com from unknown, unknown (IP: ::1) with risk score 20
+[2025-09-22T20:36:22.281Z] ERROR: Login failed: Invalid password for test@example.com
+[2025-09-22T20:37:05.039Z] INFO: Password login successful for kazestitches09@gmail.com from unknown, unknown (IP: ::1) with risk score 14
+[2025-09-22T20:44:04.088Z] INFO: Register endpoint received publicKey: MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE2itL7vnRKNi6sCQbR4BNLSl8fIUukOVSlEuUGS1QMe1XWq0XBQ1u6mUABFqpgOvcWuOztVzYp2RyNz+ceLgfxw==
+[2025-09-22T20:44:04.230Z] INFO: User registered: kazestitches09@gmail.com
+[2025-09-22T20:44:18.944Z] INFO: Password login successful for kazestitches09@gmail.com from unknown, unknown (IP: ::1) with risk score 14
+[2025-09-22T20:46:33.742Z] INFO: Password login successful for kazestitches09@gmail.com from unknown, unknown (IP: ::1) with risk score 14
+[2025-09-22T20:51:06.868Z] INFO: Password login successful for kazestitches09@gmail.com from unknown, unknown (IP: ::1) with risk score 14
+[2025-09-22T20:53:43.783Z] INFO: Password login successful for kazestitches09@gmail.com from unknown, unknown (IP: ::1) with risk score 14
+[2025-09-22T21:00:38.005Z] INFO: Password login successful for kazestitches09@gmail.com from unknown, unknown (IP: ::1) with risk score 14
+[2025-09-22T21:00:45.874Z] INFO: Password login successful for kazestitches09@gmail.com from unknown, unknown (IP: ::1) with risk score 14
+[2025-09-22T21:03:32.162Z] INFO: Password login successful for kazestitches09@gmail.com from unknown, unknown (IP: ::1) with risk score 14
+[2025-09-22T21:03:52.764Z] INFO: Password login successful for kazestitches09@gmail.com from unknown, unknown (IP: ::1) with risk score 14
+[2025-09-22T21:04:18.419Z] INFO: Password login successful for kazestitches09@gmail.com from unknown, unknown (IP: ::1) with risk score 14
+[2025-09-22T21:04:52.081Z] INFO: Password login successful for kazestitches09@gmail.com from unknown, unknown (IP: ::1) with risk score 14
+[2025-09-22T21:06:54.610Z] INFO: Password login successful for kazestitches09@gmail.com from unknown, unknown (IP: ::1) with risk score 14
+[2025-09-22T21:08:50.839Z] INFO: Password login successful for kazestitches09@gmail.com from unknown, unknown (IP: ::1) with risk score 14
+[2025-09-22T21:09:07.708Z] INFO: Password login successful for kazestitches09@gmail.com from unknown, unknown (IP: ::1) with risk score 14
+[2025-09-22T21:12:00.519Z] INFO: Register endpoint received publicKey: MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE5i3U+k5P+rAEb3L4Ykxv0R1kxFhiPysl6LAFFkot7usswZ8DQIXBXQBdxLKrpcaPIny/w8B70+1jVAsAvdByYQ==
+[2025-09-22T21:12:00.657Z] INFO: User registered: kazestitches09@gmail.com
+[2025-09-22T21:12:13.154Z] INFO: Password login successful for kazestitches09@gmail.com from unknown, unknown (IP: ::1) with risk score 14
+[2025-09-22T21:12:27.553Z] INFO: Password login successful for kazestitches09@gmail.com from unknown, unknown (IP: ::1) with risk score 14
+[2025-09-22T21:18:03.979Z] INFO: Password login successful for kazestitches09@gmail.com from unknown, unknown (IP: ::1) with risk score 14
+[2025-09-22T21:18:23.206Z] INFO: Password login successful for kazestitches09@gmail.com from unknown, unknown (IP: ::1) with risk score 14
+[2025-09-22T21:20:26.193Z] INFO: Password login successful for kazestitches09@gmail.com from unknown, unknown (IP: ::1) with risk score 14
+[2025-09-22T21:26:53.823Z] INFO: Password login successful for kazestitches09@gmail.com from unknown, unknown (IP: ::1) with risk score 14
+[2025-09-22T21:27:30.156Z] INFO: Logout successful for token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OGQxYmJhMGQ3MzhhNjAyZWNhOTNjNTgiLCJlbWFpbCI6ImthemVzdGl0Y2hlczA5QGdtYWlsLmNvbSIsImp0aSI6IjA5MWViZDY4LTg2MDUtNDEwZS04MDY3LTVkNTY5ZjJkYzQ3MyIsImlhdCI6MTc1ODU3NjQxMywiZXhwIjoxNzU4NTgwMDEzfQ.vxxcS3IdAENW_Gn_6kTeY2qUJWiX5iNT1_tbr4rDLEU
+[2025-09-22T21:27:38.231Z] INFO: Password login successful for kazestitches09@gmail.com from unknown, unknown (IP: ::1) with risk score 14
+[2025-09-22T21:38:37.252Z] INFO: Logout successful for token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OGQxYmJhMGQ3MzhhNjAyZWNhOTNjNTgiLCJlbWFpbCI6ImthemVzdGl0Y2hlczA5QGdtYWlsLmNvbSIsImp0aSI6ImYxMWMyYjQwLTZhOGMtNDIyMi1iMDRlLWQzMTI2MGNkZDBlYiIsImlhdCI6MTc1ODU3NjQ1OCwiZXhwIjoxNzU4NTgwMDU4fQ.PrGfdG0OnmsAROp1s8m4opOBL3DfRTRqEdv3LRFd7gA
+[2025-09-22T21:38:47.546Z] INFO: Password login successful for kazestitches09@gmail.com from unknown, unknown (IP: ::1) with risk score 14
+[2025-09-22T21:44:47.793Z] INFO: Logout successful for token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OGQxYmJhMGQ3MzhhNjAyZWNhOTNjNTgiLCJlbWFpbCI6ImthemVzdGl0Y2hlczA5QGdtYWlsLmNvbSIsImp0aSI6ImEyYjQ3ZWJjLTg1OTctNDBlZi1iZmQ3LWNiNzJmZjE5Zjk5OCIsImlhdCI6MTc1ODU3NzEyNywiZXhwIjoxNzU4NTgwNzI3fQ.N8ZTqF4voZsnQS8Rz9lFYNcMGAXzEQQh0Ws1B6lzYIY
+[2025-09-22T21:45:44.290Z] INFO: Register endpoint received publicKey: MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEJmqjtv7wycVPk8rQP/p4FsTPKu2+UvYzdrSDWGNqraaECYzFwKwF94HBi4W1OYXTfL2CkAyNWqj/NaOWZmHkHQ==
+[2025-09-22T21:46:12.191Z] INFO: Register endpoint received publicKey: MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE9JcRicexYcfYJzmlYyy2icvf28fuV5x3lb7iFC0763gucfZpIw77CLrGyEBnipLZ0c/Zxt3NMiHP/FVhrYC2QQ==
+[2025-09-22T21:46:12.416Z] INFO: User registered: kazestitches18@gmail.com
+[2025-09-22T21:46:41.083Z] INFO: Password login successful for kazestitches18@gmail.com from unknown, unknown (IP: ::1) with risk score 14
+[2025-09-22T22:02:00.572Z] INFO: Logout successful for token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OGQxYzNhNGMxZWQ1NmQzZWQwMTg3NzgiLCJlbWFpbCI6ImthemVzdGl0Y2hlczE4QGdtYWlsLmNvbSIsImp0aSI6ImExZGJlODM2LTYyYjgtNDNmMC1iYWI0LTQ0NjQzNzRlYmFmNSIsImlhdCI6MTc1ODU3NzYwMSwiZXhwIjoxNzU4NTgxMjAxfQ.Mqap2MurVK67AI7xNwDo3ymhXz3cLllyyHL8d2fVxgc
+[2025-09-22T22:04:05.848Z] INFO: Password login successful for kazestitches09@gmail.com from unknown, unknown (IP: ::1) with risk score 14
+[2025-09-22T22:14:45.949Z] INFO: Logout successful for token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OGQxYmJhMGQ3MzhhNjAyZWNhOTNjNTgiLCJlbWFpbCI6ImthemVzdGl0Y2hlczA5QGdtYWlsLmNvbSIsImp0aSI6ImE1MzU3NGVhLWQyYmItNDM5Yi1hNGMyLWE4YzQ3MjI3MmM3MyIsImlhdCI6MTc1ODU3ODY0NSwiZXhwIjoxNzU4NTgyMjQ1fQ.FKZc8Nh9dwYo0wWSWdTLbW34ip7628GHlvpaxYL7Bx0
+[2025-09-22T22:14:55.289Z] INFO: Password login successful for kazestitches09@gmail.com from unknown, unknown (IP: ::1) with risk score 14
